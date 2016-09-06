@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM ubuntu:16.04
 ARG RANCHER_VERSION=v0.1.0-rc3
 
 # RANCHER
