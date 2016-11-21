@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-ARG RANCHER_VERSION=v0.1.0-rc3
+ARG RANCHER_VERSION=v0.3.1
 
 RUN apt-get update && apt-get install -y ca-certificates
 
